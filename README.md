@@ -1,6 +1,6 @@
 # A-B-Testing and ML
 # Project objective
-This aids an e-commerce business in determining which version is more well-liked by consumers and also reveals the relationships between each variable, helping them decide whether to roll out the new page, stick with the old page, or maybe extend the trial. This project aims to teach you how to use machine learning and A/B testing techniques.
+This aids an e-commerce business in determining which version is more well-liked by consumers and also reveals the relationships between each variable, helping them decide whether to roll out the new page, stick with the old page, or maybe extend the trial. 
 * Methodology Approach:
 
   - Calculated Probability: 
